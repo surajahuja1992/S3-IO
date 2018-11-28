@@ -64,7 +64,6 @@ public class Operations {
 		}
 		System.out.println("Exiting delete");
 		System.out.println("Exiting delete");
-		System.out.println("Exiting delete");
 	}
 	
 
