@@ -60,7 +60,7 @@ public class Operations {
 			new CreateBucket().s3Client.deleteObject(bucket_name, "$FILE_PATH");
 		}catch (Exception e) {
 			// TODO: handle exception
-			System.out.println("Error in Deleting");
+			System.out.println("Error in hgjhfjhhkghkDeleting");
 		}
 		System.out.println("Exiting deletejhgjlhgjlgjklh");
 		System.out.println("Exiting delete");
