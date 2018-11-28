@@ -63,6 +63,8 @@ public class Operations {
 			System.out.println("Error in Deleting");
 		}
 		System.out.println("Exiting delete");
+		System.out.println("Test for fetch and rebase");
 	}
+	
 
 }
